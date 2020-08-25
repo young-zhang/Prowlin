@@ -19,3 +19,4 @@ httpd.parse.errors
 build
 *crunchsolution*
 *.nupkg
+.vs/
